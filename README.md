@@ -1,13 +1,15 @@
 # finde
-Financial independence
+Financial independence is possible by monitoring your income and expenses.
+*finde* is here to help you with such task.
 
 ## Requisites
 
 - Jupyter
 - Plotly
-- Pandas
 - Numpy
+- xlrd
 
 ## Run
-
-$ jupyter notebook Bank.ipynb
+```
+$ jupyter-notebook finde.ipynb
+```
