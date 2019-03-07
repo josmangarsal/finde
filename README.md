@@ -7,6 +7,7 @@ Financial independence is possible by monitoring your income and expenses.
 - Jupyter
 - Plotly
 - Numpy
+- Pandas
 - xlrd
 
 ## Run
